@@ -2,12 +2,6 @@
 
 A frontend prototype for an Assignment Submission Portal using Next.js (App Router). The portal will allow users to submit their assignments through a form. Upon successful submission, the user will be redirected to a Thank You Page confirming their submission.
 
-## Features
-- User authentication (login, registration).
-- Submit new entries (e.g., files, forms).
-- View submitted items.
-- Simple and clean user interface.
-
 ## Technologies Used
 - **Next.js**
 - **Tailwind CSS**
