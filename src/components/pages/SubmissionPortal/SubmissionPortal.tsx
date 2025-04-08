@@ -42,10 +42,10 @@ const SubmissionField: React.FC<SubmissionFieldProps> = ({ levels }) => {
 
     if (validationErrors === null) {
       const submissionData = {
-        name,
-        email,
-        assignment_description: assignmentDescription,
-        github_repo_url: gitHubRepoURL,
+        name: name.trim(),
+        email: name.trim(),
+        assignment_description: assignmentDescription.trim(),
+        github_repo_url: gitHubRepoURL.trim(),
         candidate_level: candidateLevel,
       };
 
