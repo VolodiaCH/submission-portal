@@ -4,6 +4,7 @@ A frontend prototype for an Assignment Submission Portal using Next.js (App Rout
 
 ## Technologies Used
 - **Next.js**
+- **TypeScript**
 - **Tailwind CSS**
 
 ### Installation
